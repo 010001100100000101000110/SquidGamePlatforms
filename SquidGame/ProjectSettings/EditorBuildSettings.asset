@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mine/Scenes/MemGaemScen.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/V/Scenes/TestScene.unity
+    guid: 78466285f84105f4bac1700182c7cd62
+  - enabled: 1
+    path: Assets/V/Scenes/GameOver.unity
+    guid: 230847eb88e284940ab1d0eac29b34cd
+  - enabled: 1
+    path: Assets/V/Scenes/Video.unity
+    guid: b5d565fbefd0b6c4bafbb8b4797eeecc
+  m_configObjects: {}
